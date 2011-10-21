@@ -1,0 +1,10 @@
+11:40:10PM, 21/10/11 AEST-
+
+-TO DO LIST-
+
+In descending order of priority:
+
+1. Establish browser filtering code to remove divs.
+2. Establish XML export and import Schema.
+3. Establish browser filtering code to remove CSS styles.
+4. Establish dialog box Javascript and CSS code.
